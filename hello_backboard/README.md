@@ -4,7 +4,7 @@
 Backboard is your entire AI stack in one API. Memory, models, assistants, document processing, and 
 more -- all through a single platform. In this demo, we are using just one piece: creating an assistant and having a conversation with it.
 
-## What are we building in this challenge?
+## What are we building in this demo?
 We are about to create your first AI assistant, start a conversation with it, and get a response. Think of it like building your own ChatGPT, but one you control through code. Three steps, five minutes.
 
 ## Prerequisites
